@@ -44,10 +44,13 @@ This project is built on the **MERN stack**:
    ```bash
    cd server
 2.Install backend dependencies:
-npm install
+   ```bash
+  npm install
 3. Navigate to the frontend folder:
-cd client
+   ```bash
+   cd client
 4. Install frontend dependencies:
+   ```bash
 npm install
 
 ---
