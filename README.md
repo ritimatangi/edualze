@@ -61,7 +61,7 @@ npm install
 | **Frontend** | Built with React; uses React Router for navigation; styled with CSS/Tailwind; interacts with backend via Axios or Fetch |
 | **Backend**  | Node.js server using Express; handles REST API routes; connects to MongoDB; uses JWT for authentication |
 | **Database** | MongoDB stores user accounts, course details, enrollments, payment status |
-| **Chatbot**  | Integrated Rasa chatbot responds to student queries |
+
 
 
 ---
