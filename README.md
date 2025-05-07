@@ -39,9 +39,16 @@ This project is built on the **MERN stack**:
 
 ## ⚙️ How to Run Locally
 
-### Backend (server)
-1. Navigate to the `server` directory
-
+### 🖥️ Backend (Server)
+1. Navigate to the backend folder:
+   ```bash
+   cd server
+2.Install backend dependencies:
+npm install
+3. Navigate to the frontend folder:
+cd client
+4. Install frontend dependencies:
+npm install
 
 ---
 
